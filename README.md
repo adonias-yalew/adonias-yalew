@@ -2,9 +2,9 @@ Hi there 👋 I'm Adonias Yalew
 Welcome to my GitHub profile! I’m a passionate Software Engineering student on a journey to learn, build, and collaborate on meaningful projects.
 
 🚀 About Me:
-🎓 Studying Software Engineering (BSc)
+🎓 Studying Software Engineering (BSc) and Data Science
 
-🌱 Currently learning We development,Computer networks, Flutter, and UI/UX Design
+🌱 Currently learning We development,Computer networks, Flutter,SQL and UI/UX Design
 
 💡 Exploring open-source, personal projects, and community-focused solutions
 
