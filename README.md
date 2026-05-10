@@ -91,7 +91,7 @@ A modern restaurant ordering system using QR codes.
 
 ## 📫 Contact
 
-- 📧 Email: smashburger@gmail.com  
+- 📧 Email: adoniasyalew69@gmail.com  
 - 📍 Addis Ababa, Ethiopia  
 
 ---
