@@ -1,14 +1,18 @@
-# Hi, I'm Adonias Yalew 👋
+# 👋 Hi, I'm Adonias Yalew
 
-Software Engineering Student | Backend Developer | Builder
+### Software Engineering Student · Full-Stack Developer · Software Builder
 
-I'm a Software Engineering student at HILCOE School of Science and Technology with a GPA of **3.88**. I enjoy designing and building software that solves real-world problems, with a particular interest in backend systems, databases, APIs, and scalable applications.
+I'm a Software Engineering student at HILCOE School of Science and Technology with a GPA of **3.88**.
 
-## What I'm Building
+I enjoy turning ideas into impactful digital products by building complete software solutions—from intuitive user interfaces to robust backend systems. My interests include full-stack development, software architecture, databases, and scalable applications that solve real-world problems.
+
+---
+
+## 🚀 What I'm Building
 
 ### 🕊️ Haymanote Multi-Faith Platform
 
-A community-driven platform designed to support multiple faith communities through discussions, events, verified leadership accounts, digital services, and AI-powered features.
+A community and marketplace platform designed to support multiple faith communities through discussions, events, verified leadership accounts, digital services, and AI-powered features.
 
 ### 🧠 Adis Tesfa Mental Health Platform
 
@@ -24,68 +28,102 @@ A healthcare appointment management system that streamlines scheduling and commu
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Java
-* JavaScript
-* C#
-* SQL
+![My Skills](https://skillicons.dev/icons?i=java,js,cs,mysql)
 
-**Backend**
+### Frontend
 
-* Node.js
-* Express.js
-* REST APIs
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)
 
-**Databases**
+### Backend
 
-* MongoDB
-* PostgreSQL
-* MySQL
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
 
-**Tools**
+### Databases
 
-* Git
-* GitHub
-* Postman
+![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)
+
+### Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-* Backend Development
-* API Design
-* Database Architecture
-* System Design
-* Full-Stack Applications
+* Full-Stack Web Development
+* Software Architecture & System Design
+* Scalable Applications
+* REST API Development
+* Database Design
 * Building Products That Create Impact
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
-I believe software is most valuable when it solves real problems for real people.
+I believe software creates the most value when it solves real problems for real people.
 
-Instead of building projects just to complete tutorials, I focus on creating systems that address challenges in areas such as healthcare, mental wellness, community engagement, and tourism.
-
----
-
-## GitHub Goals
-
-* Build meaningful projects
-* Improve software engineering skills through practice
-* Contribute to open-source projects
-* Learn modern technologies and best practices
-* Create solutions that make a positive impact
+Rather than building projects only for learning purposes, I enjoy creating systems that address challenges in healthcare, mental wellness, community engagement, and digital accessibility.
 
 ---
 
-### Let's Connect
+## 📊 GitHub Stats
 
-* LinkedIn: [Your LinkedIn]
-* Portfolio: [Your Portfolio]
-* Email: [Your Email]
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adonias-yalew&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adonias-yalew&theme=transparent&hide_border=true" />
+</p>
 
-> "Great software starts with understanding people, not just writing code."
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonias-yalew&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adonias-yalew&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**HILCOE School of Science and Technology**
+Bachelor of Science in Software Engineering
+GPA: **3.88**
+
+---
+
+## 🌱 Learning & Growth
+
+* Advanced Full-Stack Development
+* Software Architecture Patterns
+* Cloud Technologies
+* AI Integration in Applications
+* Modern Development Best Practices
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [adoniasyalew69@gmail.com](mailto:adoniasyalew69@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/adonias-yalew-4269312a8/
+
+🐙 GitHub: https://github.com/adonias-yalew
+
+🌐 Portfolio: Add your portfolio URL here
+
+---
+
+> *"Great software starts with understanding people, not just writing code."*
