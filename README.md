@@ -1,105 +1,91 @@
-# 👋 Hi, I'm Adoni
+# Hi, I'm Adonias Yalew 👋
 
-I’m a Software Engineering student from Ethiopia 🇪🇹 who is passionate about building real-world projects, learning by doing, and growing into a strong full-stack developer.
+Software Engineering Student | Backend Developer | Builder
 
-I enjoy turning ideas into working systems — especially in **Java, web development, and AI-based solutions**.
+I'm a Software Engineering student at HILCOE School of Science and Technology with a GPA of **3.88**. I enjoy designing and building software that solves real-world problems, with a particular interest in backend systems, databases, APIs, and scalable applications.
 
----
+## What I'm Building
 
-## 🚀 About Me
+### 🕊️ Haymanote Multi-Faith Platform
 
-- 🎓 2nd-year Software Engineering student
-- 💻 Learning Java, C#, C++, and web technologies (HTML, CSS)
-- 🧠 Interested in AI-powered solutions and startup ideas
-- 🍔 Building real projects like a QR-based menu system for a burger restaurant
-- 📊 Improving problem-solving and system design skills
-- 🎯 Goal: Create impactful apps and win international scholarships
+A community-driven platform designed to support multiple faith communities through discussions, events, verified leadership accounts, digital services, and AI-powered features.
 
----
+### 🧠 Adis Tesfa Mental Health Platform
 
-## 🧠 Mental Health & Wellbeing Focus
+A mental health support platform focused on accessibility, wellness resources, appointment scheduling, and meaningful user experiences.
 
-I also care about using technology to support **mental clarity and mental health awareness**, especially in my community.
+### ✈️ Tourism Booking System
 
-I’m interested in building simple, AI-powered tools that help people:
-- Manage stress and anxiety
-- Improve focus and daily productivity
-- Access mental health guidance in a safe and simple way
-- Build healthier digital habits
+A booking platform that helps users discover destinations, manage reservations, and simplify travel planning.
 
-One of my future goals is to contribute to solutions like **Clear Mind Ethiopia**, where technology can make mental health support more accessible and stigma-free.
+### 🏥 Clinic Booking System
 
-> “Good mental health is the foundation for everything else we build in life.”
+A healthcare appointment management system that streamlines scheduling and communication between patients and clinics.
 
 ---
 
-## 🔥 Current Projects
+## Tech Stack
 
-### 🍔 Smash Burger QR Menu System
-A modern restaurant ordering system using QR codes.
+**Languages**
 
-**Features:**
-- QR code menu scanning
-- Digital food ordering system
-- Clean UI design for mobile users
-- Admin-friendly menu management
+* Java
+* JavaScript
+* C#
+* SQL
 
----
+**Backend**
 
-### 🧾 Other Projects
-- Employee Management System (Java)
-- Contact Book App (Java with GUI + database concepts)
-- Airline Reservation System (Java)
-- Small AI concept ideas for productivity and education tools
+* Node.js
+* Express.js
+* REST APIs
 
----
+**Databases**
 
-## 🧠 Skills
+* MongoDB
+* PostgreSQL
+* MySQL
 
-**Languages:**
-- Java ☕
-- C++
-- C#
-- HTML / CSS
+**Tools**
 
-**Concepts:**
-- Object-Oriented Programming (OOP)
-- GUI Development
-- Basic Database Systems
-- Event-driven thinking
-- Clean Architecture basics
+* Git
+* GitHub
+* Postman
 
 ---
 
-## 📈 What I'm Working On
+## Current Focus
 
-- Improving real coding skills through weekly projects
-- Learning how to design scalable systems
-- Exploring AI solutions for real-world problems
-- Preparing for internships and scholarships abroad
-
----
-
-## 🎯 Future Goals
-
-- Build impactful software that solves real problems
-- Become strong in full-stack development
-- Work on AI-powered applications
-- Win a fully funded master's scholarship in Europe
+* Backend Development
+* API Design
+* Database Architecture
+* System Design
+* Full-Stack Applications
+* Building Products That Create Impact
 
 ---
 
-## 📫 Contact
+## Philosophy
 
-- 📧 Email: adoniasyalew69@gmail.com  
-- 📍 Addis Ababa, Ethiopia  
+I believe software is most valuable when it solves real problems for real people.
 
----
-
-## 💡 Motto
-
-> "Learn by building. Improve by failing. Grow by repeating."
+Instead of building projects just to complete tutorials, I focus on creating systems that address challenges in areas such as healthcare, mental wellness, community engagement, and tourism.
 
 ---
 
-Thanks for visiting my profile 🙌
+## GitHub Goals
+
+* Build meaningful projects
+* Improve software engineering skills through practice
+* Contribute to open-source projects
+* Learn modern technologies and best practices
+* Create solutions that make a positive impact
+
+---
+
+### Let's Connect
+
+* LinkedIn: [Your LinkedIn]
+* Portfolio: [Your Portfolio]
+* Email: [Your Email]
+
+> "Great software starts with understanding people, not just writing code."
